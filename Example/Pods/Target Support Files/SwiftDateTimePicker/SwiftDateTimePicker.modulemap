@@ -1,0 +1,6 @@
+framework module SwiftDateTimePicker {
+  umbrella header "SwiftDateTimePicker-umbrella.h"
+
+  export *
+  module * { export * }
+}

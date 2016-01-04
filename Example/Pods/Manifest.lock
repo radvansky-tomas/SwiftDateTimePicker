@@ -1,0 +1,18 @@
+PODS:
+  - DateTools (1.7.0)
+  - FSCalendar (1.7.2)
+  - SwiftDateTimePicker (0.1.0):
+    - DateTools
+    - FSCalendar
+
+DEPENDENCIES:
+  - SwiftDateTimePicker
+
+SPEC CHECKSUMS:
+  DateTools: 53288ee8b905fdc75897a1e6b5cc0144b14cba60
+  FSCalendar: 38f5b3de1aeaa7dc03a3e997bdc6fb3ff3a88b8d
+  SwiftDateTimePicker: 4ade2010fb5615c01cff25723b05ea2ff3959d6f
+
+PODFILE CHECKSUM: 24bda9051fec84b76114ba48d2723bbb39f60e00
+
+COCOAPODS: 1.0.0.beta.1
